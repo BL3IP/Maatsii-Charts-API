@@ -1,0 +1,1202 @@
+{
+  "c1": {
+    "symbol": "NQ",
+    "timeframe": "100T",
+    "ticker": "NQ_100T",
+    "group": "01 NQ"
+  },
+  "c2": {
+    "symbol": "NQ",
+    "timeframe": "1000T",
+    "ticker": "NQ_1000T",
+    "group": "01 NQ"
+  },
+  "c3": {
+    "symbol": "NQ",
+    "timeframe": "1M",
+    "ticker": "NQ_1M",
+    "group": "01 NQ"
+  },
+  "c4": {
+    "symbol": "NQ",
+    "timeframe": "15M",
+    "ticker": "NQ_15M",
+    "group": "01 NQ"
+  },
+  "c5": {
+    "symbol": "NQ",
+    "timeframe": "1H",
+    "ticker": "NQ_1H",
+    "group": "01 NQ"
+  },
+  "c6": {
+    "symbol": "NQ",
+    "timeframe": "4H",
+    "ticker": "NQ_4H",
+    "group": "01 NQ"
+  },
+  "c7": {
+    "symbol": "ES",
+    "timeframe": "100T",
+    "ticker": "ES_100T",
+    "group": "02 ES"
+  },
+  "c8": {
+    "symbol": "ES",
+    "timeframe": "1000T",
+    "ticker": "ES_1000T",
+    "group": "02 ES"
+  },
+  "c9": {
+    "symbol": "ES",
+    "timeframe": "1M",
+    "ticker": "ES_1M",
+    "group": "02 ES"
+  },
+  "c10": {
+    "symbol": "ES",
+    "timeframe": "15M",
+    "ticker": "ES_15M",
+    "group": "02 ES"
+  },
+  "c11": {
+    "symbol": "ES",
+    "timeframe": "1H",
+    "ticker": "ES_1H",
+    "group": "02 ES"
+  },
+  "c12": {
+    "symbol": "ES",
+    "timeframe": "4H",
+    "ticker": "ES_4H",
+    "group": "02 ES"
+  },
+  "c13": {
+    "symbol": "GC",
+    "timeframe": "15M",
+    "ticker": "GC_15M",
+    "group": "20 GC"
+  },
+  "c14": {
+    "symbol": "GC",
+    "timeframe": "1H",
+    "ticker": "GC_1H",
+    "group": "20 GC"
+  },
+  "c15": {
+    "symbol": "CL",
+    "timeframe": "1M",
+    "ticker": "CL_1M",
+    "group": "21 CL"
+  },
+  "c16": {
+    "symbol": "CL",
+    "timeframe": "15M",
+    "ticker": "CL_15M",
+    "group": "21 CL"
+  },
+  "c17": {
+    "symbol": "CL",
+    "timeframe": "30M",
+    "ticker": "CL_30M",
+    "group": "21 CL"
+  },
+  "c18": {
+    "symbol": "CL",
+    "timeframe": "1H",
+    "ticker": "CL_1H",
+    "group": "21 CL"
+  },
+  "c19": {
+    "symbol": "CL",
+    "timeframe": "4H",
+    "ticker": "CL_4H",
+    "group": "21 CL"
+  },
+  "c20": {
+    "symbol": "CL",
+    "timeframe": "6H",
+    "ticker": "CL_6H",
+    "group": "21 CL"
+  },
+  "c21": {
+    "symbol": "CL",
+    "timeframe": "1D",
+    "ticker": "CL_1D",
+    "group": "21 CL"
+  },
+  "c22": {
+    "symbol": "TIP/US10Y",
+    "timeframe": "1D",
+    "ticker": "TIP_US10Y_1D",
+    "group": "25 Macro"
+  },
+  "c23": {
+    "symbol": "TLT/LQD",
+    "timeframe": "1D",
+    "ticker": "TLT_LQD_1D",
+    "group": "09 Credit"
+  },
+  "c24": {
+    "symbol": "GC",
+    "timeframe": "1M",
+    "ticker": "GC_1M",
+    "group": "20 GC"
+  },
+  "c25": {
+    "symbol": "MOVE",
+    "timeframe": "1D",
+    "ticker": "MOVE_1D",
+    "group": "35 Volatility"
+  },
+  "c26": {
+    "symbol": "EWG/DAX",
+    "timeframe": "10M",
+    "ticker": "EWG_DAX_10M",
+    "group": "27 Global"
+  },
+  "c27": {
+    "symbol": "FXI/BTCUSD",
+    "timeframe": "15M",
+    "ticker": "FXI_BTCUSD_15M",
+    "group": "27 Global"
+  },
+  "c28": {
+    "symbol": "TIP/DXY",
+    "timeframe": "1D",
+    "ticker": "TIP_DXY_1D",
+    "group": "25 Macro"
+  },
+  "c29": {
+    "symbol": "VIX",
+    "timeframe": "4H",
+    "ticker": "VIX_4H",
+    "group": "35 Volatility"
+  },
+  "c30": {
+    "symbol": "TNX",
+    "timeframe": "1H",
+    "ticker": "TNX_1H",
+    "group": "08 Curve"
+  },
+  "c31": {
+    "symbol": "XLK",
+    "timeframe": "1H",
+    "ticker": "XLK_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c32": {
+    "symbol": "SOXX/SMH",
+    "timeframe": "1H",
+    "ticker": "SOXX_SMH_1H",
+    "group": "30 Semis"
+  },
+  "c33": {
+    "symbol": "VIX",
+    "timeframe": "15M",
+    "ticker": "VIX_15M",
+    "group": "35 Volatility"
+  },
+  "c34": {
+    "symbol": "SPYG/SPYV",
+    "timeframe": "1H",
+    "ticker": "SPYG_SPYV_1H",
+    "group": "28 ETF Rotation"
+  },
+  "c35": {
+    "symbol": "LQD/IEF",
+    "timeframe": "10M",
+    "ticker": "LQD_IEF_10M",
+    "group": "09 Credit"
+  },
+  "c36": {
+    "symbol": "USDJPY",
+    "timeframe": "1000T",
+    "ticker": "USDJPY_1000T",
+    "group": "12 FX JPY"
+  },
+  "c37": {
+    "symbol": "HYG",
+    "timeframe": "4H",
+    "ticker": "HYG_4H",
+    "group": "09 Credit"
+  },
+  "c38": {
+    "symbol": "ZB",
+    "timeframe": "1H",
+    "ticker": "ZB_1H",
+    "group": "25 Macro"
+  },
+  "c39": {
+    "symbol": "NVDA/NQ1",
+    "timeframe": "3M",
+    "ticker": "NVDA_NQ1_3M",
+    "group": "31 MegaCap FAANG"
+  },
+  "c40": {
+    "symbol": "JNK/HYG",
+    "timeframe": "1H",
+    "ticker": "JNK_HYG_1H",
+    "group": "09 Credit"
+  },
+  "c41": {
+    "symbol": "NVDA/ES1",
+    "timeframe": "30M",
+    "ticker": "NVDA_ES1_30M",
+    "group": "31 MegaCap FAANG"
+  },
+  "c42": {
+    "symbol": "SOFR/US02Y",
+    "timeframe": "5M",
+    "ticker": "SOFR_US02Y_5M",
+    "group": "29 ETF Risk"
+  },
+  "c43": {
+    "symbol": "XLC/XLK/XLV",
+    "timeframe": "1H",
+    "ticker": "XLC_XLK_XLV_1H",
+    "group": "28 ETF Rotation"
+  },
+  "c44": {
+    "symbol": "SMCI/NVDA/TSM",
+    "timeframe": "15M",
+    "ticker": "SMCI_NVDA_TSM_15M",
+    "group": "33 AI"
+  },
+  "c45": {
+    "symbol": "GS/JPM/XLF",
+    "timeframe": "4H",
+    "ticker": "GS_JPM_XLF_4H",
+    "group": "25 Macro"
+  },
+  "c46": {
+    "symbol": "MOVE/US02Y/US10Y",
+    "timeframe": "1H",
+    "ticker": "MOVE_US02Y_US10Y_1H",
+    "group": "25 Macro"
+  },
+  "c47": {
+    "symbol": "HYG/TLT/US02Y",
+    "timeframe": "15M",
+    "ticker": "HYG_TLT_US02Y_15M",
+    "group": "09 Credit"
+  },
+  "c48": {
+    "symbol": "RSP/SPY/IWM",
+    "timeframe": "30M",
+    "ticker": "RSP_SPY_IWM_30M",
+    "group": "25 Macro"
+  },
+  "c49": {
+    "symbol": "YM",
+    "timeframe": "100T",
+    "ticker": "YM_100T",
+    "group": "03 YM"
+  },
+  "c50": {
+    "symbol": "YM",
+    "timeframe": "1000T",
+    "ticker": "YM_1000T",
+    "group": "03 YM"
+  },
+  "c51": {
+    "symbol": "YM",
+    "timeframe": "15M",
+    "ticker": "YM_15M",
+    "group": "03 YM"
+  },
+  "c52": {
+    "symbol": "YM",
+    "timeframe": "1H",
+    "ticker": "YM_1H",
+    "group": "03 YM"
+  },
+  "c53": {
+    "symbol": "RTY",
+    "timeframe": "100T",
+    "ticker": "RTY_100T",
+    "group": "04 RTY"
+  },
+  "c54": {
+    "symbol": "RTY",
+    "timeframe": "1000T",
+    "ticker": "RTY_1000T",
+    "group": "04 RTY"
+  },
+  "c55": {
+    "symbol": "RTY",
+    "timeframe": "15M",
+    "ticker": "RTY_15M",
+    "group": "04 RTY"
+  },
+  "c56": {
+    "symbol": "RTY",
+    "timeframe": "1H",
+    "ticker": "RTY_1H",
+    "group": "04 RTY"
+  },
+  "c57": {
+    "symbol": "ZB",
+    "timeframe": "15M",
+    "ticker": "ZB_15M",
+    "group": "07 Bonds Long-Term"
+  },
+  "c58": {
+    "symbol": "GC",
+    "timeframe": "100T",
+    "ticker": "GC_100T",
+    "group": "20 GC"
+  },
+  "c59": {
+    "symbol": "ZB",
+    "timeframe": "4H",
+    "ticker": "ZB_4H",
+    "group": "07 Bonds Long-Term"
+  },
+  "c60": {
+    "symbol": "ZN",
+    "timeframe": "15M",
+    "ticker": "ZN_15M",
+    "group": "06 Bonds Mid-Term"
+  },
+  "c61": {
+    "symbol": "ZN",
+    "timeframe": "1H",
+    "ticker": "ZN_1H",
+    "group": "06 Bonds Mid-Term"
+  },
+  "c62": {
+    "symbol": "ZN",
+    "timeframe": "4H",
+    "ticker": "ZN_4H",
+    "group": "06 Bonds Mid-Term"
+  },
+  "c63": {
+    "symbol": "ZF",
+    "timeframe": "15M",
+    "ticker": "ZF_15M",
+    "group": "05 Bonds Short-Term"
+  },
+  "c64": {
+    "symbol": "ZF",
+    "timeframe": "1H",
+    "ticker": "ZF_1H",
+    "group": "05 Bonds Short-Term"
+  },
+  "c65": {
+    "symbol": "UB",
+    "timeframe": "1H",
+    "ticker": "UB1_1H",
+    "group": "07 Bonds Long-Term"
+  },
+  "c66": {
+    "symbol": "UB",
+    "timeframe": "4H",
+    "ticker": "UB1_4H",
+    "group": "07 Bonds Long-Term"
+  },
+  "c67": {
+    "symbol": "BTCUSD",
+    "timeframe": "1M",
+    "ticker": "BTCUSD_1M",
+    "group": "16 Crypto BTC"
+  },
+  "c68": {
+    "symbol": "BTCUSD",
+    "timeframe": "5M",
+    "ticker": "BTCUSD_5M",
+    "group": "16 Crypto BTC"
+  },
+  "c69": {
+    "symbol": "BTCUSD",
+    "timeframe": "1H",
+    "ticker": "BTCUSD_1H",
+    "group": "16 Crypto BTC"
+  },
+  "c70": {
+    "symbol": "BTCUSD",
+    "timeframe": "4H",
+    "ticker": "BTCUSD_4H",
+    "group": "16 Crypto BTC"
+  },
+  "c71": {
+    "symbol": "BTCUSD",
+    "timeframe": "1D",
+    "ticker": "BTCUSD_1D",
+    "group": "16 Crypto BTC"
+  },
+  "c72": {
+    "symbol": "ETHUSD",
+    "timeframe": "1M",
+    "ticker": "ETHUSD_1M",
+    "group": "17 Crypto ETH"
+  },
+  "c73": {
+    "symbol": "ETHUSD",
+    "timeframe": "5M",
+    "ticker": "ETHUSD_5M",
+    "group": "17 Crypto ETH"
+  },
+  "c74": {
+    "symbol": "ETHUSD",
+    "timeframe": "1H",
+    "ticker": "ETHUSD_1H",
+    "group": "17 Crypto ETH"
+  },
+  "c75": {
+    "symbol": "ETHUSD",
+    "timeframe": "4H",
+    "ticker": "ETHUSD_4H",
+    "group": "17 Crypto ETH"
+  },
+  "c76": {
+    "symbol": "ETHUSD",
+    "timeframe": "1D",
+    "ticker": "ETHUSD_1D",
+    "group": "17 Crypto ETH"
+  },
+  "c77": {
+    "symbol": "DXY",
+    "timeframe": "15M",
+    "ticker": "DXY_15M",
+    "group": "10 Dollar"
+  },
+  "c78": {
+    "symbol": "DXY",
+    "timeframe": "1H",
+    "ticker": "DXY_1H",
+    "group": "10 Dollar"
+  },
+  "c79": {
+    "symbol": "DXY",
+    "timeframe": "1D",
+    "ticker": "DXY_1D",
+    "group": "10 Dollar"
+  },
+  "c80": {
+    "symbol": "DX",
+    "timeframe": "15M",
+    "ticker": "DX1_15M",
+    "group": "10 Dollar"
+  },
+  "c81": {
+    "symbol": "DX",
+    "timeframe": "1H",
+    "ticker": "DX1_1H",
+    "group": "10 Dollar"
+  },
+  "c82": {
+    "symbol": "6E1",
+    "timeframe": "15M",
+    "ticker": "6E_15M",
+    "group": "11 FX Majors"
+  },
+  "c83": {
+    "symbol": "6E1",
+    "timeframe": "1H",
+    "ticker": "6E_1H",
+    "group": "11 FX Majors"
+  },
+  "c84": {
+    "symbol": "6E1",
+    "timeframe": "1D",
+    "ticker": "6E_1D",
+    "group": "11 FX Majors"
+  },
+  "c85": {
+    "symbol": "6B1",
+    "timeframe": "15M",
+    "ticker": "6B_15M",
+    "group": "13 FX GBP"
+  },
+  "c86": {
+    "symbol": "6B1",
+    "timeframe": "1H",
+    "ticker": "6B_1H",
+    "group": "13 FX GBP"
+  },
+  "c87": {
+    "symbol": "6J1",
+    "timeframe": "15M",
+    "ticker": "6J_15M",
+    "group": "12 FX JPY"
+  },
+  "c88": {
+    "symbol": "6J1",
+    "timeframe": "1H",
+    "ticker": "6J_1H",
+    "group": "12 FX JPY"
+  },
+  "c89": {
+    "symbol": "6A1",
+    "timeframe": "15M",
+    "ticker": "6A_15M",
+    "group": "14 FX Other"
+  },
+  "c90": {
+    "symbol": "6A1",
+    "timeframe": "1H",
+    "ticker": "6A_1H",
+    "group": "14 FX Other"
+  },
+  "c91": {
+    "symbol": "EURUSD",
+    "timeframe": "5M",
+    "ticker": "EURUSD_5M",
+    "group": "11 FX Majors"
+  },
+  "c92": {
+    "symbol": "EURUSD",
+    "timeframe": "1H",
+    "ticker": "EURUSD_1H",
+    "group": "11 FX Majors"
+  },
+  "c93": {
+    "symbol": "GBPUSD",
+    "timeframe": "5M",
+    "ticker": "GBPUSD_5M",
+    "group": "13 FX GBP"
+  },
+  "c94": {
+    "symbol": "GBPUSD",
+    "timeframe": "1H",
+    "ticker": "GBPUSD_1H",
+    "group": "13 FX GBP"
+  },
+  "c95": {
+    "symbol": "AUDUSD",
+    "timeframe": "5M",
+    "ticker": "AUDUSD_5M",
+    "group": "14 FX Other"
+  },
+  "c96": {
+    "symbol": "AUDUSD",
+    "timeframe": "1H",
+    "ticker": "AUDUSD_1H",
+    "group": "14 FX Other"
+  },
+  "c97": {
+    "symbol": "USDJPY",
+    "timeframe": "5M",
+    "ticker": "USDJPY_5M",
+    "group": "12 FX JPY"
+  },
+  "c98": {
+    "symbol": "ETHBTC",
+    "timeframe": "15M",
+    "ticker": "ETHBTC_15M",
+    "group": "17 Crypto ETH"
+  },
+  "c99": {
+    "symbol": "RTY1!/ES1",
+    "timeframe": "15M",
+    "ticker": "RTY_ES1_15M",
+    "group": "25 Macro"
+  },
+  "c100": {
+    "symbol": "YM1!/ES1",
+    "timeframe": "15M",
+    "ticker": "YM_ES1_15M",
+    "group": "25 Macro"
+  },
+  "c101": {
+    "symbol": "ZN1!/UB1",
+    "timeframe": "1H",
+    "ticker": "ZN_UB1_1H",
+    "group": "06 Bonds Mid-Term"
+  },
+  "c102": {
+    "symbol": "DXY/ES1",
+    "timeframe": "30M",
+    "ticker": "DXY_ES1_30M",
+    "group": "10 Dollar"
+  },
+  "c103": {
+    "symbol": "DXY/NQ1",
+    "timeframe": "30M",
+    "ticker": "DXY_NQ1_30M",
+    "group": "10 Dollar"
+  },
+  "c104": {
+    "symbol": "DXY/6E1/6J1/6B1/6A1",
+    "timeframe": "1D",
+    "ticker": "DXY_6E1_6J1_6B1_6A1_1D",
+    "group": "10 Dollar"
+  },
+  "c105": {
+    "symbol": "YM",
+    "timeframe": "1M",
+    "ticker": "YM_1M",
+    "group": "03 YM"
+  },
+  "c106": {
+    "symbol": "YM",
+    "timeframe": "4H",
+    "ticker": "YM_4H",
+    "group": "03 YM"
+  },
+  "c107": {
+    "symbol": "RTY",
+    "timeframe": "1M",
+    "ticker": "RTY_1M",
+    "group": "04 RTY"
+  },
+  "c108": {
+    "symbol": "RTY",
+    "timeframe": "4H",
+    "ticker": "RTY_4H",
+    "group": "04 RTY"
+  },
+  "c109": {
+    "symbol": "UB",
+    "timeframe": "15M",
+    "ticker": "UB1_15M",
+    "group": "07 Bonds Long-Term"
+  },
+  "c110": {
+    "symbol": "ZN",
+    "timeframe": "1D",
+    "ticker": "ZN_1D",
+    "group": "06 Bonds Mid-Term"
+  },
+  "c111": {
+    "symbol": "ZB",
+    "timeframe": "1D",
+    "ticker": "ZB_1D",
+    "group": "07 Bonds Long-Term"
+  },
+  "c112": {
+    "symbol": "ZF",
+    "timeframe": "4H",
+    "ticker": "ZF_4H",
+    "group": "05 Bonds Short-Term"
+  },
+  "c113": {
+    "symbol": "ZF",
+    "timeframe": "4H",
+    "ticker": "ZF_4H",
+    "group": "08 Curve"
+  },
+  "c114": {
+    "symbol": "US10Y",
+    "timeframe": "1D",
+    "ticker": "US10Y_1D",
+    "group": "11 FX Majors"
+  },
+  "c115": {
+    "symbol": "6C1",
+    "timeframe": "1H",
+    "ticker": "6C_1H",
+    "group": "14 FX Other"
+  },
+  "c116": {
+    "symbol": "6S1",
+    "timeframe": "1H",
+    "ticker": "6S_1H",
+    "group": "14 FX Other"
+  },
+  "c117": {
+    "symbol": "USDCAD",
+    "timeframe": "1H",
+    "ticker": "USDCAD_1H",
+    "group": "14 FX Other"
+  },
+  "c118": {
+    "symbol": "USDCHF",
+    "timeframe": "1H",
+    "ticker": "USDCHF_1H",
+    "group": "14 FX Other"
+  },
+  "c119": {
+    "symbol": "BTCUSD",
+    "timeframe": "1000T",
+    "ticker": "BTCUSD_1000T",
+    "group": "16 Crypto BTC"
+  },
+  "c120": {
+    "symbol": "ETHUSD",
+    "timeframe": "1000T",
+    "ticker": "ETHUSD_1000T",
+    "group": "17 Crypto ETH"
+  },
+  "c121": {
+    "symbol": "BTC.D",
+    "timeframe": "1H",
+    "ticker": "BTC.D_1H",
+    "group": "19 Crypto Market"
+  },
+  "c122": {
+    "symbol": "DXY",
+    "timeframe": "4H",
+    "ticker": "DXY1_4H",
+    "group": "11 FX Majors"
+  },
+  "c123": {
+    "symbol": "GC",
+    "timeframe": "1000T",
+    "ticker": "GC_1000T",
+    "group": "20 GC"
+  },
+  "c124": {
+    "symbol": "GC",
+    "timeframe": "1000T",
+    "ticker": "GC_1000T",
+    "group": "20 GC"
+  },
+  "c125": {
+    "symbol": "SPY/IWM",
+    "timeframe": "5M",
+    "ticker": "SPY_IWM_5M",
+    "group": "28 ETF Rotation"
+  },
+  "c126": {
+    "symbol": "SPY/QQQ",
+    "timeframe": "5M",
+    "ticker": "SPY_QQQ_5M",
+    "group": "28 ETF Rotation"
+  },
+  "c127": {
+    "symbol": "SPY/RSP",
+    "timeframe": "5M",
+    "ticker": "SPY_RSP_5M",
+    "group": "28 ETF Rotation"
+  },
+  "c128": {
+    "symbol": "SPY/XLP",
+    "timeframe": "5M",
+    "ticker": "SPY_XLP_5M",
+    "group": "30 Semis"
+  },
+  "c129": {
+    "symbol": "SPY/SMH",
+    "timeframe": "5M",
+    "ticker": "SPY_SMH_5M",
+    "group": "34 High-Beta"
+  },
+  "c130": {
+    "symbol": "SPLV/SPHB",
+    "timeframe": "1H",
+    "ticker": "SPLV_SPHB_1H",
+    "group": "29 ETF Risk"
+  },
+  "c131": {
+    "symbol": "XLF/XLK",
+    "timeframe": "1H",
+    "ticker": "XLF_XLK_1H",
+    "group": "29 ETF Risk"
+  },
+  "c132": {
+    "symbol": "SPY/XLE",
+    "timeframe": "1H",
+    "ticker": "SPY_XLE_1H",
+    "group": "29 ETF Risk"
+  },
+  "c133": {
+    "symbol": "HYG/TLT",
+    "timeframe": "1H",
+    "ticker": "HYG_TLT_1H",
+    "group": "09 Credit"
+  },
+  "c134": {
+    "symbol": "HYG/IEF",
+    "timeframe": "1H",
+    "ticker": "HYG_IEF_1H",
+    "group": "09 Credit"
+  },
+  "c135": {
+    "symbol": "VIX/VIX3M",
+    "timeframe": "5M",
+    "ticker": "VIX_VIX3M_5M",
+    "group": "35 Volatility"
+  },
+  "c136": {
+    "symbol": "VIX9D/VIX",
+    "timeframe": "5M",
+    "ticker": "VIX9D_VIX_5M",
+    "group": "35 Volatility"
+  },
+  "c137": {
+    "symbol": "VVIX/VIX",
+    "timeframe": "1H",
+    "ticker": "VVIX_VIX_1H",
+    "group": "35 Volatility"
+  },
+  "c138": {
+    "symbol": "UVXY/SVIX",
+    "timeframe": "1H",
+    "ticker": "UVXY_SVIX_1H",
+    "group": "35 Volatility"
+  },
+  "c139": {
+    "symbol": "US02Y/US10Y",
+    "timeframe": "1D",
+    "ticker": "US02Y_US10Y_1D",
+    "group": "08 Curve"
+  },
+  "c140": {
+    "symbol": "US03M/US10Y",
+    "timeframe": "1D",
+    "ticker": "US03M_US10Y_1D",
+    "group": "08 Curve"
+  },
+  "c141": {
+    "symbol": "US10Y/US30Y",
+    "timeframe": "1D",
+    "ticker": "US10Y_US30Y_1D",
+    "group": "08 Curve"
+  },
+  "c142": {
+    "symbol": "US10Y/US30Y",
+    "timeframe": "1D",
+    "ticker": "US10Y_US30Y_1D",
+    "group": "09 Credit"
+  },
+  "c143": {
+    "symbol": "TLT/IEF",
+    "timeframe": "1H",
+    "ticker": "TLT_IEF_1H",
+    "group": "09 Credit"
+  },
+  "c144": {
+    "symbol": "HYG/LQD",
+    "timeframe": "1H",
+    "ticker": "HYG_LQD_1H",
+    "group": "22 Energy"
+  },
+  "c145": {
+    "symbol": "DXY/CL1",
+    "timeframe": "1H",
+    "ticker": "DXY_CL1_1H",
+    "group": "20 GC"
+  },
+  "c146": {
+    "symbol": "DXY/GC1",
+    "timeframe": "1H",
+    "ticker": "DXY_GC1_1H",
+    "group": "27 Global"
+  },
+  "c147": {
+    "symbol": "DXY/EEM",
+    "timeframe": "1D",
+    "ticker": "DXY_EEM_1D",
+    "group": "27 Global"
+  },
+  "c148": {
+    "symbol": "DXY/BTCUSD",
+    "timeframe": "1H",
+    "ticker": "DXY_BTCUSD_1H",
+    "group": "22 Energy"
+  },
+  "c149": {
+    "symbol": "RB1!/CL1",
+    "timeframe": "1H",
+    "ticker": "RB_CL1_1H",
+    "group": "22 Energy"
+  },
+  "c150": {
+    "symbol": "HO1!/CL",
+    "timeframe": "1H",
+    "ticker": "HO_CL1_1H",
+    "group": "22 Energy"
+  },
+  "c151": {
+    "symbol": "HO1!/CL1",
+    "timeframe": "1H",
+    "ticker": "HO_CL1_1H",
+    "group": "22 Energy"
+  },
+  "c152": {
+    "symbol": "NG1!/CL1",
+    "timeframe": "1H",
+    "ticker": "NG_CL1_1H",
+    "group": "22 Energy"
+  },
+  "c153": {
+    "symbol": "GC1!/SI1",
+    "timeframe": "1D",
+    "ticker": "GC_SI1_1D",
+    "group": "23 Metals"
+  },
+  "c154": {
+    "symbol": "HG1!/GC1",
+    "timeframe": "1H",
+    "ticker": "HG_GC1_1H",
+    "group": "23 Metals"
+  },
+  "c155": {
+    "symbol": "ZS1!/ZC1",
+    "timeframe": "1D",
+    "ticker": "ZS1_ZC1_1D",
+    "group": "24 Agriculture"
+  },
+  "c156": {
+    "symbol": "ZC1!/ZC2!",
+    "timeframe": "1H",
+    "ticker": "ZC1_ZC2_1H",
+    "group": "24 Agriculture"
+  },
+  "c157": {
+    "symbol": "ZS1!/ZS2!",
+    "timeframe": "1H",
+    "ticker": "ZS1_ZS2_1H",
+    "group": "24 Agriculture"
+  },
+  "c158": {
+    "symbol": "DEU40/SPX500USD",
+    "timeframe": "1H",
+    "ticker": "DEU40_SPX500USD_1H",
+    "group": "27 Global"
+  },
+  "c159": {
+    "symbol": "UK100GBP/SPX500USD",
+    "timeframe": "1D",
+    "ticker": "UK100GBP_SPX500USD_1D",
+    "group": "27 Global"
+  },
+  "c160": {
+    "symbol": "JPN225/SPX500USD",
+    "timeframe": "1H",
+    "ticker": "JPN225_SPX500USD_1H",
+    "group": "27 Global"
+  },
+  "c161": {
+    "symbol": "HK50/SPX500USD",
+    "timeframe": "1D",
+    "ticker": "HK50_SPX500USD_1D",
+    "group": "27 Global"
+  },
+  "c162": {
+    "symbol": "ES1!/YM1",
+    "timeframe": "5M",
+    "ticker": "ES_YM1_5M",
+    "group": "25 Macro"
+  },
+  "c163": {
+    "symbol": "YM1!/RTY1",
+    "timeframe": "5M",
+    "ticker": "YM_RTY1_5M",
+    "group": "25 Macro"
+  },
+  "c164": {
+    "symbol": "IWF/IWD",
+    "timeframe": "1D",
+    "ticker": "IWF_IWD_1D",
+    "group": "25 Macro"
+  },
+  "c165": {
+    "symbol": "SOXX/QQQ",
+    "timeframe": "5M",
+    "ticker": "SOXX_QQQ_5M",
+    "group": "30 Semis"
+  },
+  "c166": {
+    "symbol": "AUDJPY",
+    "timeframe": "5M",
+    "ticker": "AUDJPY_5M",
+    "group": "15 FX Crosses"
+  },
+  "c167": {
+    "symbol": "EURJPY/USDJPY",
+    "timeframe": "1H",
+    "ticker": "EURJPY_USDJPY_1H",
+    "group": "15 FX Crosses"
+  },
+  "c168": {
+    "symbol": "USDJPY/US10Y",
+    "timeframe": "1H",
+    "ticker": "USDJPY_US10Y_1H",
+    "group": "08 Curve"
+  },
+  "c169": {
+    "symbol": "ETHBTC",
+    "timeframe": "5M",
+    "ticker": "ETHBTC_5M",
+    "group": "17 Crypto ETH"
+  },
+  "c170": {
+    "symbol": "SOL/BTC",
+    "timeframe": "5M",
+    "ticker": "SOL_BTC_5M",
+    "group": "18 Crypto Altcoins"
+  },
+  "c171": {
+    "symbol": "TOTAL3/TOTAL2",
+    "timeframe": "1D",
+    "ticker": "TOTAL3_TOTAL2_1D",
+    "group": "19 Crypto Market"
+  },
+  "c172": {
+    "symbol": "TOTAL2/TOTAL",
+    "timeframe": "1D",
+    "ticker": "TOTAL2_TOTAL_1D",
+    "group": "19 Crypto Market"
+  },
+  "c173": {
+    "symbol": "BTC.D/TOTAL",
+    "timeframe": "1D",
+    "ticker": "BTC.D_TOTAL_1D",
+    "group": "19 Crypto Market"
+  },
+  "c174": {
+    "symbol": "HG1!/ALI1",
+    "timeframe": "1H",
+    "ticker": "HG_ALI1_1H",
+    "group": "23 Metals"
+  },
+  "c175": {
+    "symbol": "NVDA",
+    "timeframe": "1H",
+    "ticker": "NVDA_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c176": {
+    "symbol": "AAPL",
+    "timeframe": "1H",
+    "ticker": "AAPL_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c177": {
+    "symbol": "AMZN",
+    "timeframe": "1H",
+    "ticker": "AMZN_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c178": {
+    "symbol": "INTC",
+    "timeframe": "1H",
+    "ticker": "INTC_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c179": {
+    "symbol": "PLTR",
+    "timeframe": "1H",
+    "ticker": "PLTR_1H",
+    "group": "33 AI"
+  },
+  "c180": {
+    "symbol": "MSTR",
+    "timeframe": "1H",
+    "ticker": "MSTR_1H",
+    "group": "34 High-Beta"
+  },
+  "c181": {
+    "symbol": "SOFI",
+    "timeframe": "1H",
+    "ticker": "SOFI_1H",
+    "group": "34 High-Beta"
+  },
+  "c182": {
+    "symbol": "GOOGL",
+    "timeframe": "1H",
+    "ticker": "GOOGL_1H",
+    "group": "34 High-Beta"
+  },
+  "c183": {
+    "symbol": "META",
+    "timeframe": "1H",
+    "ticker": "META_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c184": {
+    "symbol": "AMD",
+    "timeframe": "1H",
+    "ticker": "AMD_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c185": {
+    "symbol": "PDD",
+    "timeframe": "1H",
+    "ticker": "PDD_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c186": {
+    "symbol": "VIX/VVIX",
+    "timeframe": "1H",
+    "ticker": "VIX_VVIX_1H",
+    "group": "35 Volatility"
+  },
+  "c187": {
+    "symbol": "RGTI",
+    "timeframe": "1H",
+    "ticker": "RGTI_1H",
+    "group": "34 High-Beta"
+  },
+  "c188": {
+    "symbol": "TNX/FVX.P",
+    "timeframe": "1H",
+    "ticker": "TNX_FVX.P_1H",
+    "group": "33 AI"
+  },
+  "c189": {
+    "symbol": "TNX/FVX.P",
+    "timeframe": "1H",
+    "ticker": "TNX_FVX.P_1H",
+    "group": "08 Curve"
+  },
+  "c190": {
+    "symbol": "FVX.P/IRX.P",
+    "timeframe": "1H",
+    "ticker": "FVX.P_IRX.P_1H",
+    "group": "08 Curve"
+  },
+  "c191": {
+    "symbol": "SMCI",
+    "timeframe": "1H",
+    "ticker": "SMCI_1H",
+    "group": "33 AI"
+  },
+  "c192": {
+    "symbol": "QQQ/IWM",
+    "timeframe": "1H",
+    "ticker": "QQQ_IWM_1H",
+    "group": "34 High-Beta"
+  },
+  "c193": {
+    "symbol": "HOOD",
+    "timeframe": "1H",
+    "ticker": "HOOD_1H",
+    "group": "34 High-Beta"
+  },
+  "c194": {
+    "symbol": "OPEN",
+    "timeframe": "1H",
+    "ticker": "OPEN_1H",
+    "group": "34 High-Beta"
+  },
+  "c195": {
+    "symbol": "MSFT",
+    "timeframe": "1H",
+    "ticker": "MSFT_1H",
+    "group": "31 MegaCap FAANG"
+  },
+  "c196": {
+    "symbol": "SPY",
+    "timeframe": "1H",
+    "ticker": "SPY_1H",
+    "group": "28 ETF Rotation"
+  },
+  "c197": {
+    "symbol": "QQQ",
+    "timeframe": "1H",
+    "ticker": "QQQ_1H",
+    "group": "28 ETF Rotation"
+  },
+  "c198": {
+    "symbol": "IWM",
+    "timeframe": "1H",
+    "ticker": "IWM_1H",
+    "group": "28 ETF Rotation"
+  },
+  "c199": {
+    "symbol": "XBI",
+    "timeframe": "1H",
+    "ticker": "XBI_1H",
+    "group": "28 ETF Rotation"
+  },
+  "c200": {
+    "symbol": "CRWV",
+    "timeframe": "1H",
+    "ticker": "CRWV_1H",
+    "group": "34 High-Beta"
+  }
+}

@@ -1,0 +1,39 @@
+# Maatsii Chart API for LLMs
+
+Real-time financial chart frames for AI agents and vision models.
+
+Base URL: https://api.maatsii.com
+Total Charts: 200
+Groups: 25
+
+## Public Endpoints (No Auth Required)
+
+- GET /{id}.jpg?raw=1&cb={unique}   → Direct binary JPEG (c1.jpg through c200.jpg)
+- GET /health
+
+**Always use ?raw=1 for direct image data.**
+**Always append a unique ?cb= cachebuster on every request.**
+
+## Chartmap (Required for Resolution)
+
+Load the chartmap to translate requests into canonical Chart IDs:
+
+- Full human-readable map: https://api.maatsii.com/llm.txt
+- Compact machine map: chartmap-200.json (in this directory)
+- Embedded in Grok schema: https://api.maatsii.com/grok.json (see x-chartmap)
+
+## Provider-Optimized Schemas
+
+- Grok (xAI): https://api.maatsii.com/grok.json
+- Claude (Anthropic): https://api.maatsii.com/claude.json
+- GPT / OpenAI: https://api.maatsii.com/gpt.json
+- General: https://api.maatsii.com/openapi.json
+
+## Quick Resolution Rule
+
+1. Load chartmap
+2. Map user request → Chart ID (c1–c200)
+3. Build URL: https://api.maatsii.com/{id}.jpg?raw=1&cb={fresh}
+
+Maintained with assistance from Grok and Claude Code.
+See README.md for full plug-and-play instructions.
