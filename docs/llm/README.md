@@ -132,8 +132,8 @@ The complete mapping (Chart ID → Symbol → Timeframe → Group) lives in the 
 
 ## Support & Integration Requests
 
-For production or enterprise integration (including official xAI/Grok partnerships), visit:  
-https://maatsii.com/request-ai
+For production or enterprise integration (including official xAI/Grok partnerships), contact:  
+hello@sentinelfabric.com
 
 ---
 
