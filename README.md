@@ -47,7 +47,7 @@ https://api.maatsii.com/c1.jpg?raw=1&cb=grok-7f9c2e2d-3a2b
 ### For Grok (xAI)
 - Preferred method: Register the official Maatsii Remote MCP server (recommended for structured access).
 - Direct vision fallback: Use the URL construction method above.
-- Grok is whitelisted for higher rate limits on the public endpoints.
+- No per-IP rate limiting is applied on the public endpoints.
 
 ### For Claude (Anthropic)
 - Use the `?raw=1&cb=` construction pattern.
@@ -100,7 +100,7 @@ The complete mapping (Chart ID → Symbol → Timeframe → Group) lives in the 
 
 ## Rate Limits & Freshness
 
-- **Public rate limit**: 60 requests per minute per IP (higher limits available with API key).
+- **Rate limit**: none — there is no per-IP request limit on the chart endpoints (verified 2026-09-02: ~6,000 frames in 10 minutes with zero 429s).
 - All frames are real-time. Charts update on every tick.
 - Freshness is guaranteed by the visible timestamp/annotation inside the image itself.
 - The API returns strict `no-store, no-cache` headers.
